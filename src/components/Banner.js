@@ -5,17 +5,18 @@ import { ArrowRightCircle } from "react-bootstrap-icons";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
+const toRotate = [
+  "Electrical Engineer",
+  "Software Developer",
+  "Young Filmmaker",
+];
+
 export const Banner = () => {
   const [loopNum, setLoopNum] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
   const [text, setText] = useState("");
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   // const [index, setIndex] = useState(1);
-  const toRotate = [
-    "Electrical Engineer",
-    "Software Developer",
-    "Young Filmmaker",
-  ];
   const period = 2000;
 
   const tick = useCallback(() => {
