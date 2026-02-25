@@ -20,31 +20,37 @@ export const Projects = () => {
     {
       title: "Bosch",
       description: "Meio Oficial",
+      time: "Fevereiro 2023 - Presente",
       imgUrl: Bosch,
     },
     {
       title: "Fórmula SAE UTFPR",
       description: "Embedded Electrical and Electronic Member",
+      time: "AGOSTO 2023 - 2025",
       imgUrl: EEE,
     },
     {
       title: "WorldSkills",
       description: "Mobile Robotics Competitor",
+      time: "FEVEREIRO 2022 - 2023",
       imgUrl: WorldSkills,
     },
     {
       title: "AAM do Brasil",
       description: "Apprentice in Mechanical Maintenance",
+      time: "EVEREIRO 2022 - 2022",
       imgUrl: AAM,
     },
     {
       title: "EnergySteel",
       description: "Project Intern",
+      time: "JANEIRO 2021 - 2021",
       imgUrl: EnergySteel,
     },
     {
       title: "Moisés Obras",
       description: "Bricklayer's Assistant",
+      time: "JUNHO 2020 - 2020",
       imgUrl: Obras,
     },
   ];
@@ -53,26 +59,31 @@ export const Projects = () => {
     {
       title: "UTFPR",
       description: "Electrical Engineering",
+      time: "2022 – 2027 (This is in progress)",
       imgUrl: UTFPR,
     },
     {
       title: "Senai",
       description: "Technical Degree in Mechatronics",
+      time: "2023 – 2024",
       imgUrl: Senai,
     },
     {
       title: "Bosch",
       description: "Technical Apprentice in Mechatronics",
+      time: "2023 – 2024",
       imgUrl: Boscher,
     },
     {
       title: "World Skills",
       description: "Mobile Robotics Training Word Skills",
+      time: "2022 – 2023",
       imgUrl: WS,
     },
     {
       title: "CEEP",
       description: "Technical Degree in Electromechanical",
+      time: "2018 – 2021",
       imgUrl: CEEP,
     },
   ];
