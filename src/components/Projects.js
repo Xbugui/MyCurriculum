@@ -20,7 +20,7 @@ export const Projects = () => {
     {
       title: "Bosch",
       description: "Meio Oficial",
-      time: "February 2023 - Presente",
+      time: "February 2023 - Present",
       imgUrl: Bosch,
     },
     {
