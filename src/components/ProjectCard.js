@@ -8,6 +8,7 @@ export const ProjectCard = ({ title, description, time, imgUrl }) => {
         <div className="proj-txtx">
           <h4>{title}</h4>
           <span>{description}</span>
+          <br />
           <span>{time}</span>
         </div>
       </div>
