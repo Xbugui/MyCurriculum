@@ -20,37 +20,37 @@ export const Projects = () => {
     {
       title: "Bosch",
       description: "Meio Oficial",
-      time: "Fevereiro 2023 - Presente",
+      time: "February 2023 - Presente",
       imgUrl: Bosch,
     },
     {
       title: "Fórmula SAE UTFPR",
       description: "Embedded Electrical and Electronic Member",
-      time: "AGOSTO 2023 - 2025",
+      time: "August 2023 - 2025",
       imgUrl: EEE,
     },
     {
       title: "WorldSkills",
       description: "Mobile Robotics Competitor",
-      time: "FEVEREIRO 2022 - 2023",
+      time: "February 2022 - 2023",
       imgUrl: WorldSkills,
     },
     {
       title: "AAM do Brasil",
       description: "Apprentice in Mechanical Maintenance",
-      time: "EVEREIRO 2022 - 2022",
+      time: "February 2022 - 2022",
       imgUrl: AAM,
     },
     {
       title: "EnergySteel",
       description: "Project Intern",
-      time: "JANEIRO 2021 - 2021",
+      time: "January 2021 - 2021",
       imgUrl: EnergySteel,
     },
     {
       title: "Moisés Obras",
       description: "Bricklayer's Assistant",
-      time: "JUNHO 2020 - 2020",
+      time: "June 2020 - 2020",
       imgUrl: Obras,
     },
   ];
